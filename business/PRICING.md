@@ -7,7 +7,7 @@
 ## Webentwicklung
 
 ### Starter Website
-**€ 1.499,–** *(Einmalzahlung)*
+**ab € 899,–** *(Basispreis, Festpreis nach Vereinbarung)*
 
 Für: Einzelpersonen, kleine Betriebe, erste professionelle Online-Präsenz
 
@@ -19,6 +19,11 @@ Für: Einzelpersonen, kleine Betriebe, erste professionelle Online-Präsenz
 - Übergabe als statische Next.js-Website
 - Deployment auf Vercel
 - 30 Tage kostenloser Support nach Launch
+
+> **Hinweis:** €899 ist der Basispreis für den definierten Standardumfang.  
+> Anpassungen, zusätzliche Seiten, Sonderfunktionen oder Änderungen außerhalb  
+> des vereinbarten Scopes werden separat nach Aufwand (€75,–/h) verrechnet.  
+> Der endgültige Festpreis wird im Angebot nach Erstgespräch festgelegt.
 
 **Lieferzeit:** 10–14 Werktage
 

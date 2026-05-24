@@ -100,7 +100,7 @@ Der Markt ist fragmentiert – viele Agenturen liefern generische Lösungen zu �
 
 | Quelle | Einheiten | Preis | Summe |
 |---|---|---|---|
-| Starter Websites | 6 | €1.499 | €8.994 |
+| Starter Websites | 6 | Ø €1.200 (ab €899 + Anpassungen) | €7.200 |
 | Business Websites | 2 | €2.999 | €5.998 |
 | Branding-Pakete | 2 | €999 | €1.998 |
 | Wartungsverträge | 4 Kunden | €99/Mo × 4 | €4.752 (12 Mo ab Q2) |
