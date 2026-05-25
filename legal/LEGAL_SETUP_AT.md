@@ -210,4 +210,4 @@ Als Kleinunternehmer machst du eine einfache E/A-Rechnung:
 
 *Hinweis: Dieses Dokument ersetzt keine Rechts- oder Steuerberatung. Bei konkreten Fragen immer einen zugelassenen Steuerberater in Österreich konsultieren.*
 
-*Stand: Mai 2025*
+*Stand: Juni 2026*

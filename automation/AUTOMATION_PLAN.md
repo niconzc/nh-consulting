@@ -95,4 +95,4 @@ Kosten total: ~€5/Monat inkl. Domain
 
 ---
 
-*AUTOMATION_PLAN v1.0 | NH Consulting | Stand: Mai 2025*
+*AUTOMATION_PLAN v1.0 | NH Consulting | Stand: Juni 2026*

@@ -22,7 +22,7 @@ BIC:     [BICCODE]
 
 RECHNUNG
 
-Rechnungsnummer:  NH-2025-[NUMMER]   (z.B. NH-2025-001)
+Rechnungsnummer:  NH-2026-[NUMMER]   (z.B. NH-2026-001)
 Rechnungsdatum:   [TT.MM.JJJJ]
 Leistungsdatum:   [TT.MM.JJJJ] – [TT.MM.JJJJ]
 Fällig am:        [14 Tage nach Rechnungsdatum]
@@ -65,7 +65,7 @@ Betrag:  € [X.XXX,–]
 IBAN:    AT[XX XXXX XXXX XXXX XXXX]
 BIC:     [BICCODE]
 Bank:    [Bankname]
-Verwendungszweck: NH-2025-[NUMMER]
+Verwendungszweck: NH-2026-[NUMMER]
 
 Bitte überweisen Sie den Betrag bis zum [Fälligkeitsdatum].
 Bei Fragen: office@nh-consulting.at
@@ -91,7 +91,7 @@ Gemäß § 11 UStG müssen Rechnungen folgendes enthalten:
 | Name und Adresse des Rechnungsausstellers | NH Consulting, Nicolas Hauser, Salzburg |
 | Name und Adresse des Empfängers | Kunde GmbH, Musterstraße 1, Wien |
 | Rechnungsdatum | 15.06.2025 |
-| Fortlaufende Rechnungsnummer | NH-2025-001 |
+| Fortlaufende Rechnungsnummer | NH-2026-001 |
 | Leistungsbeschreibung | "Erstellung Business Website" |
 | Leistungszeitraum | 01.06.2025 – 14.06.2025 |
 | Rechnungsbetrag | € 2.999,– |
@@ -108,8 +108,8 @@ Gemäß § 11 UStG müssen Rechnungen folgendes enthalten:
 NH-[JAHR]-[DREISTELLIGE NUMMER]
 
 Beispiele:
-NH-2025-001   (erste Rechnung 2025)
-NH-2025-002   (zweite Rechnung 2025)
+NH-2026-001   (erste Rechnung 2025)
+NH-2026-002   (zweite Rechnung 2025)
 NH-2026-001   (erste Rechnung 2026)
 ```
 
@@ -132,7 +132,7 @@ Hinweis:   Abschlussrechnung nach Projektabnahme.
 ```
 Position:  [Projektname] — Restzahlung (50%)
 Betrag:    € [X.XXX,–]
-Hinweis:   Bereits bezahlt via Anzahlung NH-2025-[NR]: € [X.XXX,–]
+Hinweis:   Bereits bezahlt via Anzahlung NH-2026-[NR]: € [X.XXX,–]
            Verbleibende Zahlung: € [X.XXX,–]
 ```
 

@@ -197,4 +197,4 @@ Der Markt ist fragmentiert – viele Agenturen liefern generische Lösungen zu �
 
 ---
 
-*Dokument-Version: 1.0 | Stand: Mai 2025*
+*Dokument-Version: 1.0 | Stand: Juni 2026*

@@ -168,4 +168,4 @@ vercel domains add [kundenname].at
 
 ---
 
-*TECH_STACK v1.0 | NH Consulting | Stand: Mai 2025*
+*TECH_STACK v1.0 | NH Consulting | Stand: Juni 2026*

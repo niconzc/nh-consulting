@@ -75,4 +75,4 @@ nh-consulting/
 
 ---
 
-*Letztes Update: Mai 2025*
+Letztes Update: Juni 2026*

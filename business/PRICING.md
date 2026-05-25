@@ -205,4 +205,4 @@ Ja, im Einzelfall möglich. Anfrage per E-Mail.
 
 ---
 
-*Stand: Mai 2025 · Alle Preise netto, Kleinunternehmer gem. § 6 Abs. 1 Z 27 UStG (keine USt)*
+*Stand: Juni 2026 · Alle Preise netto, Kleinunternehmer gem. § 6 Abs. 1 Z 27 UStG (keine USt)*

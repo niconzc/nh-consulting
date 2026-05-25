@@ -254,4 +254,4 @@ Nicolas
 
 ---
 
-*CLIENT_PROCESS v1.0 | NH Consulting | Stand: Mai 2025*
+*CLIENT_PROCESS v1.0 | NH Consulting | Stand: Juni 2026*

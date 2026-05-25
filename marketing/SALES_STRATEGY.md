@@ -215,4 +215,4 @@ als die einmalige Investition in eine professionelle."
 
 ---
 
-*SALES_STRATEGY v1.0 | NH Consulting | Stand: Mai 2025*
+*SALES_STRATEGY v1.0 | NH Consulting | Stand: Juni 2026*

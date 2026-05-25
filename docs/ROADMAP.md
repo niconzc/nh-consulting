@@ -135,4 +135,4 @@ Am Ende jedes Quartals beantworten:
 
 ---
 
-*ROADMAP v1.0 | NH Consulting | Stand: Mai 2025*
+*ROADMAP v1.0 | NH Consulting | Stand: Juni 2026*
